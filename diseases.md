@@ -1,9 +1,9 @@
 # Diseases Master List
  - Latest Plugin Version: v2.1.0
  - Last Updated: 2/23/2021
-1. [Norovirus](####Norovirus by Mr01sam)
+1. [Norovirus](#norovirus)
 ## Verified Disease Files
-#### Norovirus by Mr01sam
+#### Norovirus by Mr01sam <a name="norovirus"></a>
 ```json
 {
   "Disease name": "Norovirus",
