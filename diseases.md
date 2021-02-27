@@ -3,8 +3,8 @@
  - Last Updated: 2/27/2021
 ## Table of Contents
 1. [Norovirus](#norovirus)
-2. [ARS (Acute Radiation Syndrome] (#ars)
-3. [Triquinosis] (#triquinosis)
+2. [ARS (Acute Radiation Syndrome)](#ars)
+3. [Triquinosis](#triquinosis)
 ## Verified Disease Files
 #### Norovirus by Mr01sam <a name="norovirus"></a>
 ```json
